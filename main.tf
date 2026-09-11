@@ -4,3 +4,4 @@ resource "aws_vpc" "dev" {
         Name = "my-vpc"
     }  
 }
+# Terraform learning - VPC
